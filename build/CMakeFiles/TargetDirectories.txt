@@ -1,0 +1,3 @@
+/Users/arteym/documents/afina/afina/build/CMakeFiles/rebuild_cache.dir
+/Users/arteym/documents/afina/afina/build/CMakeFiles/edit_cache.dir
+/Users/arteym/documents/afina/afina/build/CMakeFiles/Storage.dir
